@@ -1,0 +1,90 @@
+{
+  "tasks": [
+    {
+      "taskName": "CAFFE",
+      "taskPersentage": 75,
+      "dailyTask": true,
+      "taskTime": "10:00",
+      "taskDate": "10/10/2021",
+      "taskCat": "Office work"
+    },
+    {
+      "taskName": "Fix a bug in Here\u2019s Hackathon app",
+      "taskPersentage": 30,
+      "dailyTask": true,
+      "taskTime": "10:00",
+      "taskDate": "10/10/2021",
+      "taskCat": "Office work"
+    },
+    {
+      "taskName": "Buy Apple 2kg",
+      "taskPersentage": 0,
+      "dailyTask": true,
+      "taskTime": "10:00",
+      "taskDate": "10/10/2021",
+      "taskCat": "Home"
+    },
+    {
+      "taskName": "Win IITB Here\u2019s Hackathon",
+      "taskPersentage": 95,
+      "dailyTask": true,
+      "taskTime": "10:00",
+      "taskDate": "10/10/2021",
+      "taskCat": "Hackathon"
+    },
+    {
+      "taskName": "Pick up Son from School",
+      "taskPersentage": 100,
+      "dailyTask": true,
+      "taskTime": "10:00",
+      "taskDate": "10/10/2021",
+      "taskCat": "Child"
+    }
+  ],
+  "nearbyPlaces": [
+    { "title": "Sanskar Tower", "category": "Hostel", "distance": 14 },
+    { "title": "Hostel 14, Iit Bombay", "category": "Hostel", "distance": 51 },
+    {
+      "title": "Iit H6 Footer Ground",
+      "category": "Training & Development",
+      "distance": 98
+    },
+    {
+      "title": "Iit Bombay Playground",
+      "category": "Park-Recreation Area",
+      "distance": 108
+    },
+    { "title": "Shri Sai Hostel", "category": "Hostel", "distance": 118 },
+    { "title": "Hostel Office", "category": "Hostel", "distance": 124 },
+    { "title": "VI-Kings", "category": "Business Facility", "distance": 130 },
+    { "title": "Iit Bombay Hostel 13", "category": "Hostel", "distance": 134 },
+    { "title": "Iit Hostel No 6", "category": "Lodging", "distance": 135 },
+    { "title": "Iit Hostel Wing", "category": "Hostel", "distance": 147 },
+    { "title": "Parijatha Hotel", "category": "Hostel", "distance": 173 },
+    { "title": "Hostel C", "category": "Hostel", "distance": 174 },
+    { "title": "Trishul Apartment", "category": "Hostel", "distance": 178 },
+    { "title": "Iit Hostel Number 13", "category": "Hostel", "distance": 179 },
+    { "title": "Iit Hostel Number 12", "category": "Hostel", "distance": 200 },
+    { "title": "Iit Hostel No 1", "category": "Lodging", "distance": 201 },
+    {
+      "title": "Oyo Home 45370 Elegant Home Powai",
+      "category": "Hotel/Motel",
+      "distance": 219
+    },
+    {
+      "title": "Gupta Hardware",
+      "category": "Hardware, House & Garden",
+      "distance": 219
+    },
+    {
+      "title": "Hostel 9 Footer Field",
+      "category": "Park-Recreation Area",
+      "distance": 219
+    },
+    {
+      "title": "Baseball",
+      "category": "Sports Complex/Stadium",
+      "distance": 219
+    }
+  ]
+}

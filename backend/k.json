@@ -1,0 +1,56 @@
+[
+    {
+      "canDo": true,
+      "task": {
+        "name": "Develop a Navbar for the Fan website",
+        "category": "Office work",
+        "percentage": 75,
+        "daily": true,
+        "time": "10:00",
+        "date": "10/10/2021"
+      },
+      "location": {
+        "name": "Sanskar Tower",
+        "latitude": 19.13516,
+        "longitude": 72.90615
+      },
+      "estimatedTime": 60,
+      "instructions": "Head to Sanskar Tower, find a quiet spot, and connect to the available Wi-Fi. Set up your development environment and start working on the Fan website Navbar. Make sure to refer to the project documentation for guidance."
+    },
+    {
+      "canDo": true,
+      "task": {
+        "name": "Fix a bug in Here’s Hackathon app",
+        "category": "Office work",
+        "percentage": 30,
+        "daily": true,
+        "time": "10:00",
+        "date": "10/10/2021"
+      },
+      "location": {
+        "name": "Iit Hostel Wing",
+        "latitude": 19.13264,
+        "longitude": 72.91034
+      },
+      "estimatedTime": 45,
+      "instructions": "Head to Iit Hostel Wing, find a comfortable spot, and connect to the available Wi-Fi. Use your development environment to fix the bug in the Here’s Hackathon app. Refer to the bug report for more details."
+    },
+    {
+      "canDo": true,
+      "task": {
+        "name": "Pick up Son from School",
+        "category": "Child",
+        "percentage": 100,
+        "daily": true,
+        "time": "10:00",
+        "date": "10/10/2021"
+      },
+      "location": {
+        "name": "Iit Bombay Playground",
+        "latitude": 19.13122,
+        "longitude": 72.91490
+      },
+      "estimatedTime": 30,
+      "instructions": "Head to Iit Bombay Playground to pick up your son from school. Arrive at the specified time to ensure a smooth pick-up process."
+    }
+  ]

@@ -1,0 +1,74 @@
+[
+    {
+      "canDo": true,
+      "task": {
+        "name": "Fix a bug in Here's Hackathon app",
+        "category": "Office work",
+        "percentage": 30,
+        "daily": true,
+        "time": "10:00",
+        "date": "10/10/2021"
+      },
+      "location": {
+        "name": "Sai Aashirwad Co op Housing Society",
+        "latitude": 19.18754,
+        "longitude": 72.83815
+      },
+      "estimatedTime": 60,
+      "instructions": "Head to Sai Aashirwad Co op Housing Society. Find a comfortable spot and connect to the available Wi-Fi. Open the Here's Hackathon app and start debugging the identified bug. Refer to the bug report for details on the issue and follow the debugging process outlined in the project's documentation."
+    },
+    {
+      "canDo": true,
+      "task": {
+        "name": "Buy Apple 2kg",
+        "category": "Home",
+        "percentage": 0,
+        "daily": true,
+        "time": "10:00",
+        "date": "10/10/2021"
+      },
+      "location": {
+        "name": "Scharmi Foods",
+        "latitude": 19.18749,
+        "longitude": 72.83813
+      },
+      "estimatedTime": 15,
+      "instructions": "Visit Scharmi Foods to purchase 2kg of apples. Look for the Fresh Fruits section and choose the best-quality apples available. Use the provided weighing scale to measure 2kg and proceed to the billing counter for payment."
+    },
+    {
+      "canDo": true,
+      "task": {
+        "name": "Win IITB Here's Hackathon",
+        "category": "Hackathon",
+        "percentage": 95,
+        "daily": true,
+        "time": "10:00",
+        "date": "10/10/2021"
+      },
+      "location": {
+        "name": "Augustin Tea Stall",
+        "latitude": 19.18749,
+        "longitude": 72.83813
+      },
+      "estimatedTime": 120,
+      "instructions": "Head to Augustin Tea Stall and find a comfortable seating area. Use the available Wi-Fi to access the Here's Hackathon platform. Review the hackathon challenges and start working on your project. Make sure to allocate enough time for brainstorming, coding, and testing to increase your chances of winning."
+    },
+    {
+      "canDo": true,
+      "task": {
+        "name": "Pick up Son from School",
+        "category": "Child",
+        "percentage": 100,
+        "daily": true,
+        "time": "10:00",
+        "date": "10/10/2021"
+      },
+      "location": {
+        "name": "Jagmagia Centre",
+        "latitude": 19.18759,
+        "longitude": 72.83818
+      },
+      "estimatedTime": 30,
+      "instructions": "Head to Jagmagia Centre, which is the location of your son's school. Ensure that you arrive on time to pick up your son. Coordinate with the school staff to collect your son from his classroom and complete any necessary sign-out procedures."
+    }
+  ]
