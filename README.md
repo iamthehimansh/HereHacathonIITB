@@ -1,4 +1,4 @@
-# heres_hacathon_iitb_team_5g_only
+# 5GOnly_HERE
 
 A new Flutter project.
 
