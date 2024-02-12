@@ -1,0 +1,54 @@
+{
+    "items": [
+      {
+        "title": "Ek Kash Cafe",
+        "id": "here:pds:place:356te7ug-b51fa25593084c76a6ee42622e407b5c",
+        "language": "en",
+        "resultType": "place",
+        "address": {
+          "label": "Ek Kash Cafe, Adi Shankaracharya Marg, Iit Area-Jyotiba Phule NGR, Powai, Mumbai 400076, India",
+          "countryCode": "IND",
+          "countryName": "India",
+          "stateCode": "MH",
+          "state": "Maharashtra",
+          "county": "Mumbai Suburban",
+          "city": "Mumbai",
+          "district": "Powai",
+          "subdistrict": "Iit Area-Jyotiba Phule NGR",
+          "street": "Adi Shankaracharya Marg",
+          "postalCode": "400076"
+        },
+        "position": {
+          "lat": 19.1289,
+          "lng": 72.91982
+        },
+        "access": [
+          {
+            "lat": 19.12878,
+            "lng": 72.91988
+          }
+        ],
+        "distance": 160,
+        "categories": [
+          {
+            "id": "100-1000-0007",
+            "name": "Cafeteria",
+            "primary": true
+          },
+          {
+            "id": "100-1100-0010",
+            "name": "Coffee Shop"
+          }
+        ],
+        "contacts": [
+          {
+            "phone": [
+              {
+                "value": "+918879424449"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,32 @@
+[
+    {
+      "day": 1,
+      "tour": [
+        {
+          "text": "Sunset view at Hatu Peak",
+          "location": "Hatu Peak",
+          "bg": "https://images.pexels.com/photos/580151/pexels-photo-580151.jpeg"
+        },
+        {
+          "text": "Magical views of orchards in Ratnari",
+          "location": "Ratnari orchards",
+          "bg": "https://images.pexels.com/photos/6806371/pexels-photo-6806371.jpeg"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "tour": [
+        {
+          "text": "Enjoy snowfall at Hatu Temple",
+          "location": "Hatu Temple",
+          "bg": "https://images.pexels.com/photos/7585607/pexels-photo-7585607.jpeg"
+        },
+        {
+          "text": "Explore the beauty of Sarahan village",
+          "location": "Sarahan village",
+          "bg": "https://images.pexels.com/photos/4344318/pexels-photo-4344318.jpeg"
+        }
+      ]
+    }
+  ]

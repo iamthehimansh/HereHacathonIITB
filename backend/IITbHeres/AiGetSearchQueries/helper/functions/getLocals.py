@@ -3,7 +3,7 @@ import requests
 
 
 def getLocalShop(lat,long):
-    reqUrl = f"https://browse.search.hereapi.com/v1/browse?at=19.135032%2C72.906146&in=circle:{str(lat)},{str(long)};r=300&limit=100&lang=en&apiKey=cuj0o7HVeJ7R6ylDkWbuOw7MSUZlwS4cM-2CgRuVa-4"
+    reqUrl = f"https://browse.search.hereapi.com/v1/browse?at={str(lat)},{str(long)}&in=circle:{str(lat)},{str(long)};r=300&limit=100&lang=en&apiKey=cuj0o7HVeJ7R6ylDkWbuOw7MSUZlwS4cM-2CgRuVa-4"
 
     headersList = {
     "Accept": "*/*",

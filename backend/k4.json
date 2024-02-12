@@ -1,0 +1,22 @@
+[
+  {
+    "day": 1,
+    "tour": [
+      { "text": "Sunset view at Hatu Peak", "location": "Hatu Peak" },
+      {
+        "text": "Magical views of orchards in Ratnari",
+        "location": "Ratnari orchards"
+      }
+    ]
+  },
+  {
+    "day": 2,
+    "tour": [
+      { "text": "Enjoy snowfall at Hatu Temple", "location": "Hatu Temple" },
+      {
+        "text": "Explore the beauty of Sarahan village",
+        "location": "Sarahan village"
+      }
+    ]
+  }
+]
